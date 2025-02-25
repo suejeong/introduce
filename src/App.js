@@ -13,6 +13,8 @@ function App() {
     <MyMbti mbti = "INFP"/>
     <MyName name = "황수정"/>
     <LikeImg num = {1} />
+    <LikeImg num = {2 }/>
+    <LikeImg num = {3} />
   </> 
   );
 }
