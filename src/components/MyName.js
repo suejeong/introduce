@@ -1,5 +1,4 @@
-export const MyName = () => {
-    const name = "황수정"
+export const MyName = ({name}) => {
 
     return (
         <div>

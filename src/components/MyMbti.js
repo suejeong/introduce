@@ -1,6 +1,4 @@
-export const MyMbti = () => {
-    const mbti = "INFP"
-
+export const MyMbti = ({mbti}) => {
     return (
         <div>
             <h2>MyMbti</h2>
